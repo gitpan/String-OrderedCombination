@@ -1,0 +1,6 @@
+name:         String::OrderedCombination
+version:      0.01
+version_from: OrderedCombination.pm
+installdirs:  site
+requires:     Test
+distribution_type: module
