@@ -19,7 +19,7 @@ our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} } );
 our @EXPORT = qw(
 ocombination
 );
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 bootstrap String::OrderedCombination $VERSION;
 
@@ -28,8 +28,7 @@ __END__
 
 =head1 NAME
 
-String::Combination - An algorithm to calculate all the strings resulting from an 
-ordered combination of k characters from n characters available.
+String::OrderedCombination - An algorithm to calculate all the strings resulting from an ordered combination of k characters from n characters available.
 
 =head1 SYNOPSIS
 

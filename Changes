@@ -1,5 +1,8 @@
 Revision history for Perl extension String::OrderedCombination.
 
+0.03  Mar 31 2005
+	- fixed an error in documentation
+
 0.02  Mar 30 2005
 	- changed module name from String::Combination to String::OrderedCombination.
 	  Thanks to Allen Day <allenday atsign ucla dotsign edu> to point me this.
