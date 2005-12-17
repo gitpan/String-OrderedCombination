@@ -19,7 +19,7 @@ our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} } );
 our @EXPORT = qw(
 ocombination
 );
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 bootstrap String::OrderedCombination $VERSION;
 
@@ -77,6 +77,9 @@ from dada <F<dada atsign perl dotsign it>>.
 
 Copyright 2004,2005 Andrea Gasparri <F<andrea atsign slack dotsign z00 dotsign it>> and 
 Dree Mistrut <F<dree atsign friul dotsign it>>.
+
+Mantainer of the code is Davide Bergamini, <F<davidebe75 atsign yahoo dotsign it>> under the authorization
+of Dree Mistrut <F<dree atsign friul dotsign it>>.
 
 This package is free software and is provided "as is" without express
 or implied warranty.  You can redistribute it and/or modify it under 

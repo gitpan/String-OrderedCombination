@@ -1,5 +1,9 @@
 Revision history for Perl extension String::OrderedCombination.
 
+0.04  Dec 1 2005
+		New maintainer of the code is Davide Bergamini.
+		It will test and try to improve the code as well as possible.
+
 0.03  Mar 31 2005
 	- fixed an error in documentation
 
